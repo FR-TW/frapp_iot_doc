@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-29T23:15:50.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="e9uAKm75z809E6IQ8An1" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-29T23:32:40.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="nTem7FGYM111gE6njwIX" version="12.9.4" type="github">
   <diagram id="_aktpzabjwD1LAbqiw79" name="Page-1">
     <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="enokkY-vCz-mw29t3UTf-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="294" y="140" width="250" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="enokkY-vCz-mw29t3UTf-4" value="填報維護&lt;br&gt;設備建檔" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="554" y="144" width="120" height="60" as="geometry" />
+        <mxCell id="enokkY-vCz-mw29t3UTf-4" value="填報表單&lt;br&gt;設備建檔&lt;br&gt;設備維護記錄&lt;br&gt;供應商維護" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="144" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="enokkY-vCz-mw29t3UTf-5" value="可視化監控&lt;br&gt;HMI，SCADA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="154" y="144" width="120" height="60" as="geometry" />
@@ -37,7 +37,7 @@
         <mxCell id="enokkY-vCz-mw29t3UTf-20" value="異常報警&lt;br&gt;APP、Mail&lt;br&gt;wechat、line、釘釘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="enokkY-vCz-mw29t3UTf-21" value="異常報警&lt;br&gt;APP、Mail&lt;br&gt;wechat、line" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="enokkY-vCz-mw29t3UTf-21" value="設備歷史狀態分析&lt;br&gt;預警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="264" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
