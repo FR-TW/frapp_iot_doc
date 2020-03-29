@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-29T22:38:47.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="eiS4RmjvBdUioCXKKscC" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-29T23:15:50.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="e9uAKm75z809E6IQ8An1" version="12.9.4" type="github">
   <diagram id="_aktpzabjwD1LAbqiw79" name="Page-1">
     <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC">
       <root>
@@ -33,6 +33,12 @@
         </mxCell>
         <mxCell id="enokkY-vCz-mw29t3UTf-19" value="環控方案-基礎架構" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans TC;FType=g;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="20" y="10" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="enokkY-vCz-mw29t3UTf-20" value="異常報警&lt;br&gt;APP、Mail&lt;br&gt;wechat、line、釘釘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="enokkY-vCz-mw29t3UTf-21" value="異常報警&lt;br&gt;APP、Mail&lt;br&gt;wechat、line" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="264" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
